@@ -47,24 +47,24 @@ namespace EmployeeApp
             :this(name, 0, id, pay) { }
         public Employee (string name, int age, int id, float pay )
         {
-            empName = name;
-            empID = id;
-            empAge = age;
-            currPay = pay;
+            Name = name;
+            ID = id;
+            Age = age;
+            Pay = pay;
         }
 
         // Методы
         public void GiveBonus (float amount)
         {
-            currPay += amount;
+            Pay += amount;
         }
 
         public void DisplayStats()
         {
-            Console.WriteLine("Name: {0}", empName);
-            Console.WriteLine("ID: {0}", empID);
-            Console.WriteLine("Pay: {0}", currPay);
-            Console.WriteLine("Age: {0}", empAge);
+            Console.WriteLine("Name: {0}", Name);
+            Console.WriteLine("ID: {0}", ID);
+            Console.WriteLine("Pay: {0}", Pay);
+            Console.WriteLine("Age: {0}", Age);
         }
     }
 }
