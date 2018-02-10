@@ -1,0 +1,14 @@
+Z:\Практика C#\Lab4\Shapes\Shapes\bin\Debug\Shapes.exe.config
+Z:\Практика C#\Lab4\Shapes\Shapes\bin\Debug\Shapes.exe
+Z:\Практика C#\Lab4\Shapes\Shapes\bin\Debug\Shapes.pdb
+Z:\Практика C#\Lab4\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+Z:\Практика C#\Lab4\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+Z:\Практика C#\Lab4\Shapes\Shapes\obj\Debug\Shapes.exe
+Z:\Практика C#\Lab4\Shapes\Shapes\obj\Debug\Shapes.pdb
+Z:\Practice\Lab4\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+Z:\Practice\Lab4\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+Z:\Practice\Lab4\Shapes\Shapes\obj\Debug\Shapes.exe
+Z:\Practice\Lab4\Shapes\Shapes\obj\Debug\Shapes.pdb
+Z:\Practice\Lab4\Shapes\Shapes\bin\Debug\Shapes.exe.config
+Z:\Practice\Lab4\Shapes\Shapes\bin\Debug\Shapes.exe
+Z:\Practice\Lab4\Shapes\Shapes\bin\Debug\Shapes.pdb
